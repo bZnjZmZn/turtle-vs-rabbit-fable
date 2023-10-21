@@ -16,7 +16,7 @@ SPIST Carbag STEM SY 2023-2024
 #####  Developed on mobile (it's possible)   
  [Termux (for git)](https://f-droid.org/en/packages/com.termux/)  
  [Acode Editor (code editor for mobile)](https://play.google.com/store/apps/details?id=com.foxdebug.acode)  
- [Hosted on Replit](https://replit.com/)  
+ [Developed/Tested on Replit](https://replit.com/)  
 
 
 #####  Graphics and Arts by:  
