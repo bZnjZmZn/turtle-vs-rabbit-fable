@@ -7339,7 +7339,7 @@ p5.prototype.registerMethod('init', function p5playInit() {
 		d.id = 'p5play-intro';
 		d.style = 'position: absolute; width: 100%; height: 100%; top: 0; left: 0; z-index: 1000; background-color: black;';
 		let logo = document.createElement('img');
-		logo.src = 'turtle.png';
+		logo.src = 'src/img/turtle.png';
 		// sorry lol
 		logo.style =
 			'position: absolute; top: 50%; left: 50%; width: 40vh; height: 20vh; margin-left: -20vh; margin-top: -10vh; z-index: 1000; opacity: 0; transition: opacity 0.1s ease-in-out;';
