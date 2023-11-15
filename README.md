@@ -1,4 +1,14 @@
-# 🐢 The Legend Of Turtle And Rabbit
+<div align="center">
+  <h1 align="center">🐢 The Legend Of Turtle And Rabbit</h1>
+  <div>
+  <a href="https://bznjzmzn.github.io/turtle-vs-rabbit-fable/">
+    <img src="https://cdn.discordapp.com/attachments/1150735665181499402/1174255167244341258/image.png" alt="screenshot" style="width: 110%; height: 110%;">
+  </a>
+  <a href="https://bznjzmzn.github.io/turtle-vs-rabbit-fable/">
+    <img src="https://img.shields.io/badge/PLAY_HERE-57f287?style=for-the-badge" alt="play_button" style="width: 20%; height: 20%;">
+  </a>
+  </div>
+</div>
 
 - HTML canvas game made using [P5play.js](https://p5play.org/)  
 - Made in 10 days
@@ -62,18 +72,14 @@ SPIST CarBag STEM 12 SY 2023-2024
 [Metal Pipe](https://youtube.com/watch?v=lI9e447TnG4)  
 [Undertale Save](https://youtube.com/watch?v=c5E1JnOaazg)  
 
-
-
-### ⭐ Reviews  
-![](https://cdn.discordapp.com/attachments/1150735665181499402/1150737773003816970/Screenshot_20230911-175746.png)
-
-![](https://cdn.discordapp.com/attachments/1150735665181499402/1150735707934031893/Screenshot_20230911-181046_Messenger.png)
-
-![](https://cdn.discordapp.com/attachments/1150735665181499402/1150737772492099594/20230911_182028.png)
-
-![](https://cdn.discordapp.com/attachments/1150735665181499402/1150735707699167232/Screenshot_20230911-181140_Messenger.png)
-
-![](https://cdn.discordapp.com/attachments/1150735665181499402/1151831915079401482/Screenshot_20230914-183756_Messenger.png)
+<div align="center">
+    <h2>⭐ Reviews  </h2>
+    <img src="https://cdn.discordapp.com/attachments/1150735665181499402/1150737773003816970/Screenshot_20230911-175746.png" alt="screenshot" style="width: 50%; height: 50%;">
+    <img src="https://cdn.discordapp.com/attachments/1150735665181499402/1150735707934031893/Screenshot_20230911-181046_Messenger.png" alt="screenshot" style="width: 50%; height: 50%;">
+    <img src="https://cdn.discordapp.com/attachments/1150735665181499402/1150737772492099594/20230911_182028.png" alt="screenshot" style="width: 50%; height: 50%;">
+    <img src="https://cdn.discordapp.com/attachments/1150735665181499402/1150735707699167232/Screenshot_20230911-181140_Messenger.png" alt="screenshot" style="width: 50%; height: 50%;">
+    <img src="https://cdn.discordapp.com/attachments/1150735665181499402/1151831915079401482/Screenshot_20230914-183756_Messenger.png" alt="screenshot" style="width: 50%; height: 50%;">
+</div>
 
 # Thank you so much for playing :)!
 [View Original Markdown](https://rentry.co/tar-credits)  
